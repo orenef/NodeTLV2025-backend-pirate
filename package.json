@@ -1,0 +1,11 @@
+{
+  "name": "nodetlv2025backend",
+  "version": "1.0.0",
+  "description": "pirate demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Oren Efraim",
+  "license": "ISC"
+}
