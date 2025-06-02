@@ -2,9 +2,16 @@
   "name": "nodetlv2025backend",
   "version": "1.0.0",
   "description": "pirate demo",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js"
+  },
+  "dependencies": {
+    "shamirs-secret-sharing": "^2.0.0",
+    "express": "^4.21.2",
+    "ws": "^8.18.1",
+    "secrets.js-grempe": "^2.0.0",
+    "crypto": "^1.0.1"
   },
   "author": "Oren Efraim",
   "license": "ISC"
